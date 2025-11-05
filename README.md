@@ -22,7 +22,7 @@ Clear Values: Reset all input fields and table selection.
 
 Interactive Table: Click a player in the table to auto-fill the form for editing or deletion.
 
-🛠 Tech Stack
+Tech Stack
 
 Python 3.x
 
@@ -32,7 +32,7 @@ SQLite3 – Lightweight SQL database
 
 Qt Designer – Visual UI design
 
-🚀 Usage
+Usage
 
 Run the app:
 
@@ -47,7 +47,7 @@ Filter players by position or nationality
 
 Select a player in the table to auto-fill fields
 
-🗄 Database
+Database
 
 Database File: soccer_players.db
 
